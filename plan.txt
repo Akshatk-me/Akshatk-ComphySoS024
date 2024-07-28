@@ -1,0 +1,28 @@
+
+# Analysis of Errors caused during numerical data processing, - Floating Point number representation 
+- How Operations are performed on them 
+- Errors during these operations. 
+
+# Interpolation of Data. 
+- Polynomial Interpolation
+- Lagrange Polynomials
+- Newton’s Divided Differences
+- Interpolation Error
+- Neville Method
+- Spline Interpolation
+- Multivariate Interpolation 
+
+
+# Numerical differentiation 
+
+
+# Numerical Integration 
+
+
+# System of Inhomogenous Linear Equations
+
+
+# Roots and Extremal points of a Polynomial. 
+
+
+# Random Numbers and Monte Carlo Methods
